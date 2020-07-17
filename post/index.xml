@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 吹水罷就</title>
+    <link>https://sixantelopes.github.io/post/</link>
+    <description>Recent content in Posts on 吹水罷就</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Apr 2018 19:51:34 +0800</lastBuildDate>
+    
+	<atom:link href="https://sixantelopes.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://sixantelopes.github.io/post/hello_world/</link>
+      <pubDate>Fri, 06 Apr 2018 19:51:34 +0800</pubDate>
+      
+      <guid>https://sixantelopes.github.io/post/hello_world/</guid>
+      <description>歡迎光顧本博客，目前正在部署中……請自便</description>
+    </item>
+    
+  </channel>
+</rss>
